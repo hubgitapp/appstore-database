@@ -1,26 +1,8 @@
 {
   "version": "1.0",
   "last_updated": "2026-04-23",
-  "total_apps": 2,
+  "total_apps": 1,
   "apps": [
-    {
-      "id": "app_1776926417222",
-      "name": "NoteX",
-      "developer": "MadPro Gaming",
-      "version": "1.0",
-      "description": "Note",
-      "category": "Tools",
-      "price": 0,
-      "is_free": true,
-      "downloads": 0,
-      "rating": 0,
-      "thumbnail": "",
-      "apk_url": "",
-      "upload_date": "2026-04-23",
-      "size": "Unknown",
-      "min_android": "5.0 (Lollipop)",
-      "screenshots": []
-    },
     {
       "id": "app_1776927309965",
       "name": "NoteX",
@@ -31,15 +13,15 @@
       "price": 0,
       "is_free": true,
       "downloads": 0,
-      "rating": 0,
-      "thumbnail": "https:\/\/raw.githubusercontent.com\/hubgitapp\/appstore-images\/main\/thumbnails\/app_1776927309965_icon.png",
-      "apk_url": "https:\/\/github.com\/hubgitapp\/appstore-files\/releases\/download\/NoteX_v1.0_1776927324261\/NoteX_v1.0.apk",
+      "rating": 4.5,
+      "thumbnail": "https://raw.githubusercontent.com/hubgitapp/appstore-images/main/thumbnails/app_1776927309965_icon.png",
+      "apk_url": "https://github.com/hubgitapp/appstore-files/releases/download/NoteX_v1.0_1776927324261/NoteX_v1.0.apk",
       "upload_date": "2026-04-23",
       "size": "6.6 MB",
       "min_android": "5.0",
       "screenshots": [
-        "https:\/\/raw.githubusercontent.com\/hubgitapp\/appstore-images\/main\/screenshots\/app_1776927309965_ss1.png",
-        "https:\/\/raw.githubusercontent.com\/hubgitapp\/appstore-images\/main\/screenshots\/app_1776927309965_ss2.png"
+        "https://raw.githubusercontent.com/hubgitapp/appstore-images/main/screenshots/app_1776927309965_ss1.png",
+        "https://raw.githubusercontent.com/hubgitapp/appstore-images/main/screenshots/app_1776927309965_ss2.png"
       ]
     }
   ]
