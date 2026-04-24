@@ -1,0 +1,35 @@
+{
+  "apps": [
+    {
+      "id": "app_c0204e91",
+      "app_name": "Free",
+      "package_name": "com.free",
+      "developer": "III",
+      "category": "Games",
+      "version": "1.2",
+      "size": "6.6 MB",
+      "rating": "0",
+      "total_ratings": "0",
+      "downloads": "0",
+      "description": "Game",
+      "whats_new": "",
+      "thumbnail_url": "https:\/\/raw.githubusercontent.com\/hubgitapp\/appstore-images\/main\/thumbnails\/app_c0204e91.png",
+      "apk_download_url": "https:\/\/github.com\/hubgitapp\/appstore-files\/releases\/download\/app_c0204e91_1777062209909\/app_c0204e91.apk",
+      "min_android": "12",
+      "price": "free",
+      "release_date": "25 Apr 2026",
+      "updated_date": "25 Apr 2026",
+      "in_app_purchases": "false",
+      "website": "",
+      "support_email": "",
+      "is_featured": "false",
+      "is_suggested": "false",
+      "type": "game",
+      "uploaded_by": "104010649599435505196",
+      "screenshots": [
+        "https:\/\/raw.githubusercontent.com\/hubgitapp\/appstore-images\/main\/screenshots\/app_c0204e91_1.png",
+        "https:\/\/raw.githubusercontent.com\/hubgitapp\/appstore-images\/main\/screenshots\/app_c0204e91_2.png"
+      ]
+    }
+  ]
+}
